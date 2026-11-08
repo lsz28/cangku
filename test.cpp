@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout<<"lsz";
+    cout<<"lszzz";
     return 0;
 }
